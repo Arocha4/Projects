@@ -1,0 +1,13 @@
+# Antoine Rocha
+# arocha4
+# Cmps12b
+# pa5
+# README
+# contains the files being submited
+
+README 
+Dictionary.c
+Dictionary.h
+DictionaryTest.c
+DictionaryClient.c
+Makefile
