@@ -1,0 +1,8 @@
+  This is a interactive user friendly dictionary program which prompts the user for a word to look up with conditionals
+if the word doesnt exist or if the word was missspelled. This was done through a file I found online(data.jason) which
+although is a json file contains a dictionarly like data structure (namely key and values). I imported the json library
+to read the file and the rest of the file is commented for readability and ease of understanding. The user is prompted a
+word to look up if it exists its returned the definition. If not there are a set of conditionals which suggests the word
+meant whcih is a imported from a 3rd party library(difflib , sequence matcher) and the user is prompted again if that was
+the word meant if not then the user is returned the word couldnt be could if the user did meant the suggested word then 
+the user is returned the definition of the word. 
