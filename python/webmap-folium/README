@@ -1,0 +1,4 @@
+I Created a Webmap. map1.py is a python script using pandas and folium once compiled will create a web map with 3 layers
+It has a polygon layer representing the countries and is color coded to represent the population range of each controy.
+I also has a pop-up layer representing volvanoes in North America. The attached files volcanoes.txt and world.json contian
+the nessisary data for each layer.
