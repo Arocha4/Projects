@@ -1,0 +1,3 @@
+python scriopt that modify's local computers hosts file(windows) to act as a sudo firewall during
+hours that was between the mentioned times. 8 a- 4p. For the purpose of stopping myself from accessing facebook
+and youtube during "work hours" to boost my productivity.
